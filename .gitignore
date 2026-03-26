@@ -1,0 +1,7 @@
+rideshare_kaggle.csv
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+.ipynb_checkpoints/
+__pycache__/
